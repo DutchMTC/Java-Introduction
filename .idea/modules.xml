@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" filepath="$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boolean Logical Operators/Boolean Logical Operators.iml" filepath="$PROJECT_DIR$/Boolean Logical Operators/Boolean Logical Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes and Declaring Objects/Classes and Declaring Objects.iml" filepath="$PROJECT_DIR$/Classes and Declaring Objects/Classes and Declaring Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeclaringVariablesTutorial/DeclaringVariablesTutorial.iml" filepath="$PROJECT_DIR$/DeclaringVariablesTutorial/DeclaringVariablesTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhileLoops/DoWhileLoops.iml" filepath="$PROJECT_DIR$/DoWhileLoops/DoWhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoops/ForLoops.iml" filepath="$PROJECT_DIR$/ForLoops/ForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters Setters and Bank Account/Getters Setters and Bank Account.iml" filepath="$PROJECT_DIR$/Getters Setters and Bank Account/Getters Setters and Bank Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If ElseIf Statements/If ElseIf Statements.iml" filepath="$PROJECT_DIR$/If ElseIf Statements/If ElseIf Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDataTypes/JavaDataTypes.iml" filepath="$PROJECT_DIR$/JavaDataTypes/JavaDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multidimensional Arrays/Multidimensional Arrays.iml" filepath="$PROJECT_DIR$/Multidimensional Arrays/Multidimensional Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" filepath="$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching an Array/Searching an Array.iml" filepath="$PROJECT_DIR$/Searching an Array/Searching an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStatements/SwitchStatements.iml" filepath="$PROJECT_DIR$/SwitchStatements/SwitchStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/TypeConversion/TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoops/WhileLoops.iml" filepath="$PROJECT_DIR$/WhileLoops/WhileLoops.iml" />
+    </modules>
+  </component>
+</project>
